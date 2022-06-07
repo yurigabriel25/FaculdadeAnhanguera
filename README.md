@@ -1,2 +1,2 @@
 # FaculdadeAnhanguera
- Repositório destinado a arquivos e trabalhos da faculdade
+## Repositório destinado a arquivos e trabalhos da faculdade
